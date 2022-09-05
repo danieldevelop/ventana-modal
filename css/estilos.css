@@ -1,0 +1,43 @@
+.btn {
+    border: none;
+    padding: 0.625rem 0.75rem;
+    border-radius: 0.3125rem;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: .7s all ease;
+}
+
+.btn-modal {
+    background: #0069D9;
+    color: #fff;
+}
+
+.btn-modal:hover {
+    background: #004690;
+}
+
+.dialog {
+    width: 50%;
+    margin: 5rem auto;
+    border-radius: 1rem;
+}
+
+.dialog h1 {
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dialog p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+.btn-cancel {
+    background: #C82333;
+    color: #fff;
+}
+
+.btn-cancel:hover {
+    background: #A21F2D;
+}
